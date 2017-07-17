@@ -3,7 +3,7 @@ import { Button, Card, Container, Icon } from '@rentalutions/elements'
 import { Row, Col } from '@rentalutions/grid'
 import styled from 'styled-components'
 
-const DashboardWrapper = styled(Container)`
+const DashboardWrapper = styled.div`
   ${'' /* ${Button} {
     display: flex;
     align-items: center;

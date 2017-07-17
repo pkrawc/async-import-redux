@@ -11,5 +11,5 @@ rent with ease
 ## To Do
 - [ ] protect routes
 - [ ] implement mapbox
-- [ ] build redux store
-- [ ] upgrade styled-components so component based targeting works
+- [x] build redux store
+- [x] upgrade styled-components so component based targeting works

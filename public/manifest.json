@@ -1,0 +1,15 @@
+{
+  "short_name": "Ease",
+  "name": "Ease Property Management Software",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#657ED4",
+  "background_color": "#F1F1F1"
+}
